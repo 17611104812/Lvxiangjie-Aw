@@ -5,10 +5,10 @@ namespace Lvxiangjie\Aw;
 use BadMethodCallException;
 use Exception;
 use InvalidArgumentException;
-use aw\Db\Reader\Decoder;
-use aw\Db\Reader\InvalidDatabaseException;
-use aw\Db\Reader\Metadata;
-use aw\Db\Reader\Util;
+use Lvxiangjie\Aw\Reader\Decoder;
+use Lvxiangjie\Aw\Reader\InvalidDatabaseException;
+use Lvxiangjie\Aw\Reader\Metadata;
+use Lvxiangjie\Aw\Reader\Util;
 use UnexpectedValueException;
 
 /**
