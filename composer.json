@@ -1,5 +1,6 @@
 {
     "name": "lvxiangjie/aw",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "Lvxiangjie\\Aw\\": "src/Lvxiangjie/Aw"
