@@ -1,0 +1,15 @@
+{
+    "name": "lvxiangjie/aw",
+    "autoload": {
+        "psr-4": {
+            "Lvxiangjie\\Aw\\": "src/Lvxiangjie/Aw"
+        }
+    },
+    "authors": [
+        {
+            "name": "吕向杰",
+            "email": "lvxiangjie@yangshipin.cn"
+        }
+    ],
+    "require": {}
+}
